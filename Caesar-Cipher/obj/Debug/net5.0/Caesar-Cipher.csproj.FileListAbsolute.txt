@@ -10,3 +10,15 @@ e:\Users\betun\Mis desarrollos\repos\netcore-caesar_cipher\Caesar-Cipher\obj\Deb
 e:\Users\betun\Mis desarrollos\repos\netcore-caesar_cipher\Caesar-Cipher\obj\Debug\net5.0\Caesar-Cipher.dll
 e:\Users\betun\Mis desarrollos\repos\netcore-caesar_cipher\Caesar-Cipher\obj\Debug\net5.0\ref\Caesar-Cipher.dll
 e:\Users\betun\Mis desarrollos\repos\netcore-caesar_cipher\Caesar-Cipher\obj\Debug\net5.0\Caesar-Cipher.pdb
+c:\Users\operador\repos\netcore-caesar_cipher\Caesar-Cipher\obj\Debug\net5.0\Caesar-Cipher.csproj.AssemblyReference.cache
+c:\Users\operador\repos\netcore-caesar_cipher\Caesar-Cipher\obj\Debug\net5.0\Caesar-Cipher.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\operador\repos\netcore-caesar_cipher\Caesar-Cipher\obj\Debug\net5.0\Caesar-Cipher.AssemblyInfoInputs.cache
+c:\Users\operador\repos\netcore-caesar_cipher\Caesar-Cipher\obj\Debug\net5.0\Caesar-Cipher.AssemblyInfo.cs
+c:\Users\operador\repos\netcore-caesar_cipher\Caesar-Cipher\obj\Debug\net5.0\Caesar-Cipher.csproj.CoreCompileInputs.cache
+c:\Users\operador\repos\netcore-caesar_cipher\Caesar-Cipher\obj\Debug\net5.0\Caesar-Cipher.dll
+c:\Users\operador\repos\netcore-caesar_cipher\Caesar-Cipher\obj\Debug\net5.0\ref\Caesar-Cipher.dll
+c:\Users\operador\repos\netcore-caesar_cipher\Caesar-Cipher\obj\Debug\net5.0\Caesar-Cipher.pdb
+C:\Users\operador\repos\netcore-caesar_cipher\Caesar-Cipher\bin\Debug\net5.0\Caesar-Cipher.deps.json
+C:\Users\operador\repos\netcore-caesar_cipher\Caesar-Cipher\bin\Debug\net5.0\Caesar-Cipher.dll
+C:\Users\operador\repos\netcore-caesar_cipher\Caesar-Cipher\bin\Debug\net5.0\ref\Caesar-Cipher.dll
+C:\Users\operador\repos\netcore-caesar_cipher\Caesar-Cipher\bin\Debug\net5.0\Caesar-Cipher.pdb
