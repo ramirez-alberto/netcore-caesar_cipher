@@ -1,0 +1,12 @@
+e:\Users\betun\Mis desarrollos\repos\netcore-caesar_cipher\Caesar-Cipher\bin\Debug\net5.0\Caesar-Cipher.deps.json
+e:\Users\betun\Mis desarrollos\repos\netcore-caesar_cipher\Caesar-Cipher\bin\Debug\net5.0\Caesar-Cipher.dll
+e:\Users\betun\Mis desarrollos\repos\netcore-caesar_cipher\Caesar-Cipher\bin\Debug\net5.0\ref\Caesar-Cipher.dll
+e:\Users\betun\Mis desarrollos\repos\netcore-caesar_cipher\Caesar-Cipher\bin\Debug\net5.0\Caesar-Cipher.pdb
+e:\Users\betun\Mis desarrollos\repos\netcore-caesar_cipher\Caesar-Cipher\obj\Debug\net5.0\Caesar-Cipher.csproj.AssemblyReference.cache
+e:\Users\betun\Mis desarrollos\repos\netcore-caesar_cipher\Caesar-Cipher\obj\Debug\net5.0\Caesar-Cipher.GeneratedMSBuildEditorConfig.editorconfig
+e:\Users\betun\Mis desarrollos\repos\netcore-caesar_cipher\Caesar-Cipher\obj\Debug\net5.0\Caesar-Cipher.AssemblyInfoInputs.cache
+e:\Users\betun\Mis desarrollos\repos\netcore-caesar_cipher\Caesar-Cipher\obj\Debug\net5.0\Caesar-Cipher.AssemblyInfo.cs
+e:\Users\betun\Mis desarrollos\repos\netcore-caesar_cipher\Caesar-Cipher\obj\Debug\net5.0\Caesar-Cipher.csproj.CoreCompileInputs.cache
+e:\Users\betun\Mis desarrollos\repos\netcore-caesar_cipher\Caesar-Cipher\obj\Debug\net5.0\Caesar-Cipher.dll
+e:\Users\betun\Mis desarrollos\repos\netcore-caesar_cipher\Caesar-Cipher\obj\Debug\net5.0\ref\Caesar-Cipher.dll
+e:\Users\betun\Mis desarrollos\repos\netcore-caesar_cipher\Caesar-Cipher\obj\Debug\net5.0\Caesar-Cipher.pdb
